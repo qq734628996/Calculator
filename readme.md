@@ -416,7 +416,7 @@ void CMFCCalculatorDlg::OnBnClickedButtonGetAnswer()
 
 ## 更多演示及源码
 
-https://github.com/qq734628996/Calulator
+https://github.com/qq734628996/Calculator
 
 ## 问题与不足
 
